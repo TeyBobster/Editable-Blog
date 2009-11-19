@@ -1,0 +1,30 @@
+.editHover{
+	background-color: #E8F3FF;
+	opacity: 0.5;
+}
+
+.editBox{
+	width: 100%;
+	min-height: 20px;
+	padding: 10px 15px;
+	background-color: #fff;
+	border: 2px solid #E8F3FF;
+	overflow: hidden;
+}
+
+.btnSave, .btnCancel{
+	padding: 6px 30px 6px 45px;
+}
+
+.editable textarea{
+	overflow:hidden;
+	width: 100%;
+	height: 50%;
+
+}
+
+.editable{
+	overflow: hidden;
+}	
+
+
